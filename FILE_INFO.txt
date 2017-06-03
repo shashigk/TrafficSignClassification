@@ -1,0 +1,14 @@
+This directory contains all the files relevant for the Project 2 of Self-Driving-Car specialization.
+
+The code for this project is submitted along with this report. Please the directory named "code".
+The code folder has the following files:
+* TSC.ipynb -- The final python notebook used for the project.
+* TSC.html -- Downloaded html of the python notebook.
+* checkpoint and "lenet.\*" files -- These files contain the trained model.
+
+
+The internet images downloaded are in the directory "german\_traffic". 
+The versions of these scaled to 32x32 space are in the folder examples, and have names matching "i_*.png"
+The file signnames.csv has mapping from label numbers to descriptions.
+
+
